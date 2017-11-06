@@ -27,4 +27,4 @@ The game displays 6 squares of random different colors and also displays the col
 
 
 
-This game was created as part of Udemy's the-web-developer-bootcamp course.
+*(This game was created as part of Udemy's the-web-developer-bootcamp course)*
