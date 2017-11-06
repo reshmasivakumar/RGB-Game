@@ -11,14 +11,15 @@ The game displays 6 squares of random different colors and also displays the col
 
 ### Default Page for Easy Mode ###
 
+<img width="843" alt="screen shot 2017-11-05 at 11 03 51 pm" src="https://user-images.githubusercontent.com/18564545/32429191-60a3ec4e-c27e-11e7-9adb-7094b50bf98d.png">
+
+
+### Winner Page for Hard Mode ###
 
 
 
 
-
-
-
-
+### Default Page for Easy Mode ###
 
 
 
