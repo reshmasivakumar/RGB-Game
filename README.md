@@ -5,10 +5,11 @@ The game displays 6 squares of random different colors and also displays the col
 
 ## Screenshots ##
 
-Default Page for Hard Mode
+### Default Page for Hard Mode ###
 
+<img width="1003" alt="screen shot 2017-11-05 at 11 03 38 pm" src="https://user-images.githubusercontent.com/18564545/32429127-17005dc0-c27e-11e7-987a-a1a560c4889b.png">
 
-
+### Default Page for Easy Mode ###
 
 
 
